@@ -1,0 +1,147 @@
+body {
+    font-family: 'Roboto' 'Raleway';
+}
+
+:root {
+    --cl--iris: #4d5ae5;
+    --cl--ocean: #404bbf;
+    --cl--navy-blue: #2e2f42;
+    --cl--green: #31d0aa;
+    --cl--slate: #434455;
+    --cl--light-slate: #8e8f99;
+    --cl--cornflower: #e7e9fc;
+    --cl--cloud: #f4f4fd;
+    --cl--navy-blue-modal: #2e2f42;
+    --cl--grey: #2e2f42;
+    --cl--white: #ffffff;
+    --cl--dairy: #fcfcfc;
+}
+
+
+/* webstudio */
+.web-design {
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+}
+
+.web-header {
+    width: 1440px;
+    height: 72px;
+    border-bottom: 1px solid var(--cl--cornflower);
+    background: var(--cl--white);
+}
+
+.web-link {
+    color: var(--cl--navy-blue);
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 1.16;
+    letter-spacing: 0.54px;
+}
+
+.web-list {
+    color: var(--cl--navy-blue);
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+.web-navigation {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 40px;
+    width: 264px;
+    height: 24;
+}
+
+.web-item {}
+
+.web-item-link {}
+
+.web-address {}
+
+/* webstudio */
+
+/* address */
+
+.address-list {}
+
+.address-item {}
+
+.address-item-link {}
+
+/* address */
+
+/* main */
+
+.main {}
+
+/* main */
+
+/* effective */
+.effective {}
+
+.effective-title {}
+
+.effective-btn {}
+
+/* effective */
+
+/* advantages */
+
+.advantages {}
+
+.advantages-title {}
+
+.advantages-list {}
+
+.advantages-item {}
+
+.advantages-subtitle {}
+
+.advantages-descr {}
+
+/* advantages */
+
+/* portfolio */
+.portfolio {}
+
+.portfolio-subtitle {}
+
+.portfolio-list {}
+
+.portfolio-item {}
+
+.portfolio-img {}
+
+/* portfolio */
+
+/* team */
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+
+.team-img {}
+
+.team-subtitle {}
+
+.team-descr {}
+
+/* team */
+
+/* footer */
+
+.footer {}
+
+.footer-link {}
+
+/* footer */
