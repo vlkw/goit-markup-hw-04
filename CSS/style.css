@@ -22,17 +22,7 @@ body {
     --fontlogo: "Raleway", sans-serif;
 }
 
-/*
-a{
-  text-decoration: none;
-}
 
-ul{
-  list-style: none;
-}
-*/
-
-/*Header styles*/
 
 .page-logo {
     color: #4d5ae5;
@@ -85,16 +75,14 @@ ul{
     color: var(--ocean);
 }
 
-/*Page-main styles*/
 
-/*Main banner Section 1*/
 .main-banner {
     background-color: var(--navyblue);
 }
 
 .main-banner-title {
     color: var(--white);
-    /* Header 1 */
+
     text-align: center;
     font-size: 56px;
     line-height: 1.07;
@@ -117,7 +105,7 @@ ul{
     background-color: #404bbf;
 }
 
-/*Advantages Section 2*/
+
 .section-advatages {}
 
 .advantages-list {}
@@ -126,7 +114,7 @@ ul{
 
 .advantages-subtitle {
     color: var(--navyblue);
-    /* Header 3 */
+
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
