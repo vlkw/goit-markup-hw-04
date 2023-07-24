@@ -6,24 +6,6 @@ body {
     background-color: #ffffff;
 }
 
-:root {
-    --navyblue: #2e2f42;
-    --iris: #4d5ae5;
-    --white: #fff;
-    --ocean: #404bbf;
-    --green: #31d0aa;
-    --slate: #434455;
-    --lightslate: #8e8f99;
-    --cornflower: #e7e9fc;
-    --cloud: #f4f4fd;
-    --navybluemodal: #2e2f42;
-    --grey: #2e2f42;
-    --dairy: #fcfcfc;
-    --fontlogo: "Raleway", sans-serif;
-}
-
-
-
 .page-logo {
     color: #4d5ae5;
     font-family: var(--fontlogo);
@@ -40,6 +22,23 @@ body {
 
 .link {
     text-decoration: none;
+}
+
+
+:root {
+    --navyblue: #2e2f42;
+    --iris: #4d5ae5;
+    --white: #fff;
+    --ocean: #404bbf;
+    --green: #31d0aa;
+    --slate: #434455;
+    --lightslate: #8e8f99;
+    --cornflower: #e7e9fc;
+    --cloud: #f4f4fd;
+    --navybluemodal: #2e2f42;
+    --grey: #2e2f42;
+    --dairy: #fcfcfc;
+    --fontlogo: "Raleway", sans-serif;
 }
 
 .list {
