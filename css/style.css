@@ -44,7 +44,10 @@ body {
 .list {
     list-style: none;
 }
-
+.header-container {
+    display: flex;
+    align-items: center;
+}
 .header-menu-link {
     color: var(--navyblue);
     font-size: 16px;
