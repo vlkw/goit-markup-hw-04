@@ -77,7 +77,8 @@ ol {
     
 }
 .header-menu-item {
-    padding: 24px 0;
+    padding-bottom: 24px;
+    padding-top: 24px;
 }
 .header-menu-list {
     display: flex;
@@ -358,4 +359,7 @@ ol {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.section-portfolio-title {
+    margin-bottom: 72px;
 }
