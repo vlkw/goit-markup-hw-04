@@ -14,6 +14,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-right: 76px;
 }
 
 .page-logo-color {
@@ -46,12 +47,21 @@ body {
 }
 .header-container {
     display: flex;
+    
+}
+.header-menu-list {
+    display: flex;
+    gap: 40px;
 }
  .container {
     width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
   
+ }
+ .header-navigation {
+    display: flex;
+    align-items: center;
  }
   
 .header-menu-link {
@@ -69,6 +79,7 @@ body {
 
 .header-contacts {
     font-style: normal;
+    margin-left: auto;
 }
 
 .header-contacts-link {
@@ -76,6 +87,13 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.header-contacts-list {
+    display:flex;
+    gap: 40px;
+}
+.header-contacts-item {
+    padding: 24px 0;
 }
 
 .header-contacts-link:hover,
