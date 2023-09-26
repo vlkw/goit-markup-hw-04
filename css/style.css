@@ -76,6 +76,9 @@ ol {
     display: flex;
     
 }
+.header-menu-item {
+    padding: 24px 0 24px
+}
 .header-menu-list {
     display: flex;
     gap: 40px;
@@ -98,7 +101,9 @@ ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+.page-header{ 
+    border-bottom: 1px solid #e7e9fc
+}
 .header-menu-link:hover,
 .header-menu-link:focus {
     color: var(--ocean);
@@ -313,7 +318,7 @@ ol {
 
 /* Portfolio */
 .portfolio-section {
-    padding: 96px 0 120px 0;
+    padding:120px 0 120px 0;
 }
 
 
@@ -327,8 +332,11 @@ ol {
 .portfolio-card-content {
     padding: 32px 16px;
     border-top: none;
+    border: 1px solid #e7e9fc
 }
-
+.section-portfolio-item {
+    margin-bottom: 8px;
+}
 .portfolio-about-item {
     border: 1px solid var(--cornflower);
     background: var(--white);
