@@ -593,9 +593,6 @@ body {
   .portfolio-cover-wrap {
     position: relative;
     overflow: hidden;
-    width: 1128px;
-height: 420px;
-flex-shrink: 0;
   }
   
   .about-cover-text {
